@@ -1,3 +1,6 @@
+# Haoquan Liang Lab05 Submission
+https://www.shadertoy.com/view/csf3WM
+
 # lab05-Erosion
 Let's practice working with cellular operations.
 
