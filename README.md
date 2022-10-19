@@ -8,7 +8,7 @@ Before Erosion:
 ![](shadertoycx.PNG)
 
 After Erosion:
-![](cs.PNG)
+![](sc.PNG)
 
 Worked some with Megan Reddy on this lab.
 
