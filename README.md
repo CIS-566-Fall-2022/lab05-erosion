@@ -1,5 +1,11 @@
 # lab05-Erosion
-Let's practice working with cellular operations.
+Shader toy link: https://www.shadertoy.com/view/DdfGW7
+
+- 0s:
+<img width="430" alt="lab05-1" src="https://user-images.githubusercontent.com/33616958/196788849-fb3e99ad-a25b-47de-9e76-ae4541c35d3e.png">
+
+- 30s:
+<img width="430" alt="lab05-2" src="https://user-images.githubusercontent.com/33616958/196788855-b92c30ab-c404-4dd8-96f2-58123ade2e31.png">
 
 ## 1. Code-In-The-Blanks
 Imagine a terrain height field, where white is the highest height and black is the lowest height. We'll stick to 2d for ease of visualization. We can generate an interesting organic-looking height field like this with noise:
