@@ -1,3 +1,12 @@
+# Submission
+
+Name: Megan Reddy \
+Partner: Nick Moon \
+Shadertoy: https://www.shadertoy.com/view/cdXGDM
+
+<img width="478" alt="Screenshot 2022-10-18 214809" src="erosion.PNG">
+<p>UVA Colors!</p>
+
 # lab05-Erosion
 Let's practice working with cellular operations.
 
