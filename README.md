@@ -1,3 +1,16 @@
+# Submission
+
+Link: https://www.shadertoy.com/view/DsX3WM  
+Team: just me
+
+After 15 seconds of erosion:  
+![image](https://user-images.githubusercontent.com/3106877/196738039-49e0fc53-62cc-47f8-9f5d-fd8079579a13.png)
+
+No erosion:  
+![image](https://user-images.githubusercontent.com/3106877/196737930-97e71cf5-8245-4cc3-a82d-f631a9fd07a2.png)
+
+I found the 3D output of the erosion looks kind of like the Grand Canyon, so I went for that kind of look. I colored the terrain with horizontal bands of reddish-orange colors and added a flat water plane near the bottom. The shadows are a bit strange but I think it looks pretty cool overall.
+
 # lab05-Erosion
 Let's practice working with cellular operations.
 
