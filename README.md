@@ -1,4 +1,14 @@
 # lab05-Erosion
+
+Nick Moon (moonmoon)
+
+https://www.shadertoy.com/view/csXGD7
+
+Worked some with Megan Reddy on this lab.
+
+
+
+
 Let's practice working with cellular operations.
 
 ## 1. Code-In-The-Blanks
