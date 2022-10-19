@@ -1,3 +1,7 @@
+team members: me and also rachel helped me debug :) 
+
+shadertoy: https://www.shadertoy.com/view/cdfGDM
+
 # lab05-Erosion
 Let's practice working with cellular operations.
 
