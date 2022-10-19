@@ -1,6 +1,14 @@
 # lab05-Erosion
 Let's practice working with cellular operations.
 
+## Name 
+Yuqi Zhang Wenqing Wang Dongying Liu
+
+
+## Code
+https://www.shadertoy.com/view/cdf3WM
+
+
 ## 1. Code-In-The-Blanks
 Imagine a terrain height field, where white is the highest height and black is the lowest height. We'll stick to 2d for ease of visualization. We can generate an interesting organic-looking height field like this with noise:
 
