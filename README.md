@@ -4,6 +4,12 @@ Nick Moon (moonmoon)
 
 https://www.shadertoy.com/view/csXGD7
 
+Before Erosion:
+![](shadertoycx.PNG)
+
+After Erosion:
+![](cs.PNG)
+
 Worked some with Megan Reddy on this lab.
 
 
