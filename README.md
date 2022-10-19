@@ -1,3 +1,7 @@
+https://www.shadertoy.com/view/csf3DM
+
+I tried playing with color, but for some reason after a second the screen would fade to black. It would only happen sometimes, but I don't know what's causing it.
+
 # lab05-Erosion
 Let's practice working with cellular operations.
 
