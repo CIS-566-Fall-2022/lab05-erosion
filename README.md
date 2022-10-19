@@ -15,6 +15,9 @@ Fork [this base code](https://www.shadertoy.com/view/cdl3W4) and replicate (to t
 ## 2. Beautiful colors
 Add some coloring to give the terrain some personality.
 
+## 3. Extra Credit
+Too easy? Copy pasta some ray marching code in so we can see your terrain erosion work in 3D!
+
 ## Submission
 - Create a pull request to this repository
 - In the README, include the names of both your team members
