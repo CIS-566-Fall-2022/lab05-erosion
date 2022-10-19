@@ -3,12 +3,14 @@
 [Shadertoy Link](https://www.shadertoy.com/view/DdXGDM)
 
 Before
+
 ![Screen Shot 2022-10-19 at 1 16 36 PM](https://user-images.githubusercontent.com/90112787/196760929-b1b4047e-56f7-4499-b776-a83bc5717c00.png)
 
 After
+
 ![Screen Shot 2022-10-19 at 1 16 32 PM](https://user-images.githubusercontent.com/90112787/196760991-bf21a31e-e019-45e1-8e7e-ef02dd69bd23.png)
 
-
+---
 Let's practice working with cellular operations.
 
 ## 1. Code-In-The-Blanks
