@@ -23,3 +23,8 @@ Too easy? Copy pasta some ray marching code in so we can see your terrain erosio
 - In the README, include the names of both your team members
 - In the README, create a link to your shader toy solutions
 - Make sure your shadertoy is set to UNLISTED or PUBLIC (so we can see them!)
+
+## actual submission
+
+https://www.shadertoy.com/view/DdlGDM
+Worked alone
