@@ -1,5 +1,6 @@
 # lab05-Erosion
 Let's practice working with cellular operations.
+
 [Shader Toy](https://www.shadertoy.com/view/cdfGD7)
 
 ## 1. Code-In-The-Blanks
