@@ -1,3 +1,9 @@
+#Submission:
+
+Collaborators: None
+
+Link: https://www.shadertoy.com/view/msSGzz
+
 # lab05-Erosion
 Let's practice working with cellular operations.
 
