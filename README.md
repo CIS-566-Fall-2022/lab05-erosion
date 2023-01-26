@@ -1,3 +1,14 @@
+# work
+teammates: none
+
+https://www.shadertoy.com/view/dtXXDH
+
+click rewind then play
+
+![9c5118aeac1ef408fcfd33e430197569](https://user-images.githubusercontent.com/60904107/214738278-fd55beb8-4508-4aaa-bf5f-a65f61307e15.gif)
+
+
+---
 # lab05-Erosion
 Let's practice working with cellular operations.
 
